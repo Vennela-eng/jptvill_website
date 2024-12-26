@@ -4,3 +4,5 @@ nature of jpt
 ![image alt](https://github.com/Vennela-eng/jptvill_website/blob/df4628128392f72a6b3017dbcdea16268d6a43bd/jptvill_trees.jpg)
 night view
 ![image alt](https://github.com/Vennela-eng/jptvill_website/blob/e5977d8ee5a0b285d3fb68f26e641d56c78112d5/viz_night.jpg)
+field of jarajapupeta
+![image alt](https://github.com/Vennela-eng/jptvill_website/blob/d22709b4ce65daeb95de0a27d954c77a612c34b7/jptvill_field.jpg)
